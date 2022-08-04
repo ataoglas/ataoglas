@@ -2,7 +2,7 @@
 - 👀 I’m interested in IoT, TinyML, Computer vision and Cloud Engineering
 - 🌱 I’m currently learning TinyML and Cloud Architecture
 - 💞️ I’m looking to collaborate on Computer Vision
-- 📫 How to reach me abhatikar@taoglas.com
+- 📫 How to reach me abhatikar@superfy.com
 
 <!---
 ataoglas/ataoglas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
